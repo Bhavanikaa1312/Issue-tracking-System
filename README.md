@@ -2,7 +2,7 @@ ISSUE TRACKING SYSTEM:
      Issue tracking systems are used to manage and track the progress of tasks, problems, or issues within
 project or organization. Users of issue tracking systems can be classified into different roles based on their responsibilities and interactions with the system.
 
-FEATURES AVAILABLE TO THE ADMINISTRATOR IN ISSUE TRACKING SYSTEM:
+LETS SEE FEATURES AVAILABLE TO THE ADMINISTRATOR IN ISSUE TRACKING SYSTEM:
 * Administrators have overall control and configuration capabilities for the issue tracking system. 
 * They can manage user access, customize workflows, set up project settings, and configure system-wide options.
 * Administrators have the ability to configure and customize the overall settings of the issue tracking system.
