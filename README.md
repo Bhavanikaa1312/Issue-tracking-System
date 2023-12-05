@@ -29,7 +29,7 @@ only requirement to use this online product would be the internet connection.
 The hardware configuration include Hard Disk: 40 GB, Monitor: 15” Color monitor, Keyboard:
 122 keys. The basic input devices required are keyboard, mouse and output devices are monitor,
 printer etc.
-..
+
 
 
 ASSUMPTIONS:
